@@ -1,2 +1,2 @@
-# bots-telegram
-A Telegram bot to send texts
+# random-scratches
+Random snippets of code that I found useful
